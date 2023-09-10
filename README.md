@@ -1,8 +1,10 @@
 # audiofresca
 
-An in-browser app to convert audio files into audio spritesheets. Currently supports howlerjs JSON format but can easily be adapter for other formats.
+An in-browser app to convert audio files into audio spritesheets using ffmpeg and web APIs. Currently supports howlerjs JSON format but can easily be adapter for other formats.
 
-Inspired by [audiosprite](https://github.com/tonistiigi/audiosprite) with an intention of using ffmpeg.wasm and web APIs.
+Inspired by [audiosprite](https://github.com/tonistiigi/audiosprite)
+
+![gif of audiofresca in use](/static/audiofresca.gif)
 
 ## Usage
 
