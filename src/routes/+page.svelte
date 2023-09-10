@@ -1,9 +1,9 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
+  import { onMount } from 'svelte';
   import { spriteDefinition, spriteData, howlerJSON } from '../audio_store';
-	import ProgressBar from '$lib/components/progress_bar.svelte';
-	import SegmentList from '$lib/components/segment_list.svelte';
-	import DropZone from '$lib/components/drop_zone.svelte';
+  import ProgressBar from '$lib/components/progress_bar.svelte';
+  import SegmentList from '$lib/components/segment_list.svelte';
+  import DropZone from '$lib/components/drop_zone.svelte';
 
   const BASE_URL = 'https://unpkg.com/@ffmpeg/core@0.12.3/dist/esm'
   
