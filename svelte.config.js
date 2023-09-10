@@ -9,7 +9,7 @@ const config = {
 
 	kit: {
 		paths: {
-      base: "/your-repo-name",
+      base: "/audiofresca",
     },
 		adapter: adapter()
 	}
