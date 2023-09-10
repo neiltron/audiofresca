@@ -1,8 +1,12 @@
 <main>
-  <h1>spritesheeter</h1>
+  <h1>audio fresca</h1>
 
   <slot></slot>
 </main>
+
+<svelte:head>
+  <title>audio fresca</title>
+</svelte:head>
 
 <style>
   :global(body) {
