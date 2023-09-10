@@ -25,8 +25,8 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 # TODO
-- [] Allow for adding files in multiple drag inputs
-- [] Allow for config options like gaps between audio, etc.
-- [] Add more export types
-- [] Allow editing/removing samples and re-encoding
-- [] Allow import via spritesheet and combined audio file
+- [ ] Allow for adding files in multiple drag inputs
+- [ ] Allow for config options like gaps between audio, etc.
+- [ ] Add more export types
+- [ ] Allow editing/removing samples and re-encoding
+- [ ] Allow import via spritesheet and combined audio file
