@@ -6,6 +6,7 @@
 
 <svelte:head>
   <title>audio fresca</title>
+  <script src="https://cdn.usefathom.com/script.js" data-site="JYMAWBHK" defer></script>
 </svelte:head>
 
 <style>
