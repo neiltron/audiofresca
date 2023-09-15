@@ -1,6 +1,6 @@
 <script type="ts">
   import { createEventDispatcher } from 'svelte';
-  import { spriteDefinition } from '../../audio_store';
+  import { spriteDefinition } from '../stores/audio';
   
   const dispatch = createEventDispatcher();
   
